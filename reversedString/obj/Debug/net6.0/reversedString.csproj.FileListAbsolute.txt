@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\bin\Debug\net6.0\reversedString.exe
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\bin\Debug\net6.0\reversedString.deps.json
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\bin\Debug\net6.0\reversedString.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\bin\Debug\net6.0\reversedString.dll
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\bin\Debug\net6.0\reversedString.pdb
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\reversedString.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\reversedString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\reversedString.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\reversedString.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\reversedString.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\reversedString.dll
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\refint\reversedString.dll
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\reversedString.pdb
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\reversedString.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\reversedString\reversedString\obj\Debug\net6.0\ref\reversedString.dll
